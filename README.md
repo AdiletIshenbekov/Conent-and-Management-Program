@@ -7,6 +7,7 @@ CMS is a web application resembling a social media blog page where users have a 
 - XAMPP Control Panel required
 - MySQL 
 - TinyMCE API
+- PHP
   
 # Setup
 
@@ -18,3 +19,12 @@ CMS is a web application resembling a social media blog page where users have a 
 - When Apache and MySQL are running, go to http://localhost:3000/cms create new account OR login through:
 username: admin
 password: secret
+
+# Tech Stack
+
+- XAMPP
+- JavaScript
+- HTML
+- CSS
+- MySQL
+- PHP
