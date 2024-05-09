@@ -8,3 +8,13 @@ CMS is a web application resembling a social media blog page where users have a 
 - MySQL 
 - TinyMCE API
   
+# Setup
+
+- Open folder directory in your terminal
+- Open XAMPP Control Panel and run Apache and MySQL
+
+# Testing
+
+- When Apache and MySQL are running, go to http://localhost:3000/cms create new account OR login through:
+username: admin
+password: secret
