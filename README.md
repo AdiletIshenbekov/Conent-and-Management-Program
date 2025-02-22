@@ -8,7 +8,7 @@ CMS is a web application resembling a social media blog page where users have a 
 - MySQL 
 - TinyMCE API
 - PHP
-  
+    
 # Setup
 
 - Open folder directory in your terminal
